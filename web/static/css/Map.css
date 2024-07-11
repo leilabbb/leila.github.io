@@ -1,0 +1,8 @@
+#map-view {
+  position: fixed;
+  top: 75px;
+  left: 0;
+  right: 0;
+  height: 100%;
+}
+
